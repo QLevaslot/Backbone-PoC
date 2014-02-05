@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "dimension": "120cm",
+            "name": "model_01",
+            "id": "0001"
+        }, {
+            "dimension": "120cm",
+            "name": "model_02",
+            "id": "0010"
+        }, {
+            "dimension": "120cm",
+            "name": "model_03",
+            "id": "0011"
+        }, {
+            "dimension": "50cm",
+            "name": "model_04",
+            "id": "0100"
+        }, {
+            "dimension": "180cm",
+            "name": "model_05",
+            "id": "0101"
+        }
+    ]
+}
